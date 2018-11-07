@@ -10,6 +10,7 @@ anyone, anywhere  in the conutry and in the world. MKDcoin uses peer-to-peer tec
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. MKDcoin is the name of open source
 software which enables the use of this currency. 
+
 MKDcoin forked from bitcoin and is created on 07/11/2018 by Dejvinci.
 
 License
